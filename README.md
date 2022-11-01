@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @danigatao
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 oii meu nome é danilo @danilogatao
+- 👀 eu estou interesado em aprender em programar novas linguagens.
+- 🌱 eu estou aprendendo recentemente a linguagem de javaScript e Scratch
+
+
 
 <!---
 danigatao/danigatao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
